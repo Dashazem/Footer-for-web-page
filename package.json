@@ -1,0 +1,25 @@
+{
+  "name": "footer-for-web-page",
+  "version": "0.1.0",
+  "description": "This module allows for a dynamic footer to be generated for JS application with an updated year and name.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dashazem/Footer-for-web-page.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "dashazem <dashazemska@gmail.com> (https://www.npmjs.com/~dashazem)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Dashazem/Footer-for-web-page/issues"
+  },
+  "homepage": "https://github.com/Dashazem/Footer-for-web-page#readme",
+  "dependencies": {
+    "moment": "^2.30.1"
+  }
+}
